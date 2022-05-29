@@ -125,5 +125,14 @@
       "web.startComponents": ""
     },
     "website": "https://github.com/sulu/web-js"
+  },
+  "30together": {
+    "cats": [
+      52
+    ],
+    "description": "30together is a feature on 30nama.com where users can talk, chat and watch movies together!",
+    "dom": "section[id*='together30nama']",
+    "icon": "30namaPlayer.png",
+    "website": "https://30nama.com/"
   }
 }
